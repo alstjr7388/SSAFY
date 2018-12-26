@@ -1,5 +1,5 @@
 ---
-title: 자기 주도 학습
+title: DESIGN THINKING 
 ---
 
 # 1단계: 공감
